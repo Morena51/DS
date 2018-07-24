@@ -25,7 +25,7 @@ SECRET_KEY = 'q_*b)y+!9dm%m!qp+4rg6o9!vxdv2^#c8=vty_x5sh7c6)+v9+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'SubMarina.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'submarina.pythonanywhere.com']
 
 
 # Application definition
